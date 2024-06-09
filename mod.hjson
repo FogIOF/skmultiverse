@@ -3,6 +3,7 @@
     name : sk
     minGameVersion : 140
     main: MultiCrafterAdapter.class
+    java: true
     version : 1.3.3
     author: 
     '''
